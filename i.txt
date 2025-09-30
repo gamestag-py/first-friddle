@@ -1,0 +1,933 @@
+[103] ✅ Sent to 5520227276
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[104] ❌ Failed to 6001574607
+[105] ✅ Sent to 1841705515
+[106] ✅ Sent to 1793018791
+[107] ✅ Sent to 1088453450
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[108] ❌ Failed to 5352388409
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[109] ❌ Failed to 5766357593
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[110] ❌ Failed to 1406865060
+[111] ✅ Sent to 1996656709
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[112] ❌ Failed to 5319086270
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[113] ❌ Failed to 998488541
+[114] ✅ Sent to 5715392843
+[115] ✅ Sent to 2135075278
+[116] ✅ Sent to 6042915292
+[117] ✅ Sent to 1969187325
+[118] ✅ Sent to 749635130
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[119] ❌ Failed to 1334695814
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[120] ❌ Failed to 5471072294
+[121] ✅ Sent to 5589869510
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[122] ❌ Failed to 5016341970
+[123] ✅ Sent to 1337326710
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[124] ❌ Failed to 5548125173
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[125] ❌ Failed to 5536133111
+[126] ✅ Sent to 5093397816
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[127] ❌ Failed to 995979203
+[128] ✅ Sent to 5552903606
+[129] ✅ Sent to 2095897314
+[130] ✅ Sent to 2143489657
+[131] ✅ Sent to 6298015176
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[132] ❌ Failed to 6242221903
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[133] ❌ Failed to 5946461498
+[134] ✅ Sent to 808127622
+[135] ✅ Sent to 5699622757
+[136] ✅ Sent to 6188179423
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[137] ❌ Failed to 5428384631
+[138] ✅ Sent to 5079646058
+[139] ✅ Sent to 1902946903
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[140] ❌ Failed to 5756761371
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[141] ❌ Failed to 6078686212
+[142] ✅ Sent to 2039103444
+[143] ✅ Sent to 5266778549
+[144] ✅ Sent to 5516344739
+[145] ✅ Sent to 1954423846
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[146] ❌ Failed to 6166010394
+[147] ✅ Sent to 1346147205
+[148] ✅ Sent to 6226522264
+[149] ✅ Sent to 1692318624
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[150] ❌ Failed to 5590002837
+[151] ✅ Sent to 5239189785
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[152] ❌ Failed to 1078103543
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[153] ❌ Failed to 6312195763
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[154] ❌ Failed to 1112767877
+[155] ✅ Sent to 1394043474
+[156] ✅ Sent to 1901737091
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[157] ❌ Failed to 5859948601
+[158] ✅ Sent to 1816758299
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[159] ❌ Failed to 6239196436
+[160] ✅ Sent to 5512060872
+[161] ✅ Sent to 1397907112
+[162] ✅ Sent to 780846962
+[163] ✅ Sent to 1492786313
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[164] ❌ Failed to 5304875315
+[165] ✅ Sent to 1314063642
+[166] ✅ Sent to 971407614
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[167] ❌ Failed to 5139856592
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[168] ❌ Failed to 5653641187
+[169] ✅ Sent to 5565259569
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[170] ❌ Failed to 5060896034
+[171] ✅ Sent to 1796501249
+[172] ✅ Sent to 5091999535
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[173] ❌ Failed to 6063187793
+[174] ✅ Sent to 5177672801
+[175] ✅ Sent to 6254643104
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[176] ❌ Failed to 6189233177
+[177] ✅ Sent to 5608835914
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[178] ❌ Failed to 5769055050
+[179] ✅ Sent to 1366673534
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[180] ❌ Failed to 5942548796
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[181] ❌ Failed to 1645636546
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[182] ❌ Failed to 908335316
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[183] ❌ Failed to 6105226736
+[184] ✅ Sent to 2115930905
+[185] ✅ Sent to 5884770911
+[186] ✅ Sent to 1139523984
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[187] ❌ Failed to 5741106729
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[188] ❌ Failed to 1387155085
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[189] ❌ Failed to 6077270901
+[190] ✅ Sent to 1683797509
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[191] ❌ Failed to 1096672167
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[192] ❌ Failed to 6231527585
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[193] ❌ Failed to 6052612050
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[194] ❌ Failed to 6068425694
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[195] ❌ Failed to 5188266578
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[196] ❌ Failed to 6078671460
+[197] ✅ Sent to 6291092749
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[198] ❌ Failed to 661276239
+[199] ✅ Sent to 1763580997
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[200] ❌ Failed to 6274236858
+[201] ✅ Sent to 1330709019
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[202] ❌ Failed to 5068511953
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[203] ❌ Failed to 5967482588
+[204] ✅ Sent to 1312371965
+[205] ✅ Sent to 5618865801
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[206] ❌ Failed to 5751560959
+[207] ✅ Sent to 1772104851
+[208] ✅ Sent to 1399237391
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[209] ❌ Failed to 5969679903
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[210] ❌ Failed to 5361281940
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[211] ❌ Failed to 1137443438
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[212] ❌ Failed to 5888254944
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[213] ❌ Failed to 5734934076
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[214] ❌ Failed to 1751297070
+[215] ✅ Sent to 2138038654
+[216] ✅ Sent to 6298710549
+[217] ✅ Sent to 1556030781
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[218] ❌ Failed to 1770135684
+[219] ✅ Sent to 2077732087
+[220] ✅ Sent to 5334856954
+[221] ✅ Sent to 1675857300
+[222] ✅ Sent to 881808734
+[223] ✅ Sent to 5040890866
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[224] ❌ Failed to 1200868526
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[225] ❌ Failed to 5783715506
+[226] ✅ Sent to 992496607
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[227] ❌ Failed to 1923968356
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[228] ❌ Failed to 618736668
+[229] ✅ Sent to 1785410070
+[230] ✅ Sent to 5017574093
+[231] ✅ Sent to 1176355278
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[232] ❌ Failed to 6101250545
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[233] ❌ Failed to 1297050471
+[234] ✅ Sent to 5896560160
+[235] ✅ Sent to 2144669471
+[236] ✅ Sent to 5543142595
+[237] ✅ Sent to 948194145
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[238] ❌ Failed to 5253014106
+[239] ✅ Sent to 1871980489
+[240] ✅ Sent to 5543108201
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[241] ❌ Failed to 2049076771
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[242] ❌ Failed to 1120918577
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[243] ❌ Failed to 1992101378
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[244] ❌ Failed to 1832543865
+[245] ✅ Sent to 5526527595
+[246] ✅ Sent to 5626329320
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[247] ❌ Failed to 6092182370
+[248] ✅ Sent to 1719587449
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[249] ❌ Failed to 5467455198
+[250] ✅ Sent to 5722415198
+[251] ✅ Sent to 5179913334
+[252] ✅ Sent to 1929203957
+[253] ✅ Sent to 5404472739
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[254] ❌ Failed to 1359853715
+[255] ✅ Sent to 5977166925
+[256] ✅ Sent to 1441833421
+[257] ✅ Sent to 1954585743
+[258] ✅ Sent to 5277065797
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[259] ❌ Failed to 2074597917
+[260] ✅ Sent to 6050432177
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[261] ❌ Failed to 1665949410
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[262] ❌ Failed to 6251711679
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[263] ❌ Failed to 5511068699
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[264] ❌ Failed to 1812383579
+[265] ✅ Sent to 1303065674
+[266] ✅ Sent to 5679394392
+[267] ✅ Sent to 5617975226
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[268] ❌ Failed to 1892852930
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[269] ❌ Failed to 6256159643
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[270] ❌ Failed to 5805972861
+[271] ✅ Sent to 1126232644
+[272] ✅ Sent to 798544996
+[273] ✅ Sent to 5873822604
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[274] ❌ Failed to 5868107877
+[275] ✅ Sent to 1262813676
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[276] ❌ Failed to 5412015041
+[277] ✅ Sent to 5817139059
+[278] ✅ Sent to 1193296563
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[279] ❌ Failed to 5075603213
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[280] ❌ Failed to 5017517625
+[281] ✅ Sent to 5500686656
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[282] ❌ Failed to 5245324047
+[283] ✅ Sent to 6275248535
+[284] ✅ Sent to 1746045866
+[285] ✅ Sent to 5782490844
+[286] ✅ Sent to 6153294308
+[287] ✅ Sent to 5030733392
+[288] ✅ Sent to 1129705846
+[289] ✅ Sent to 1770453183
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[290] ❌ Failed to 5007911389
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[291] ❌ Failed to 5150233568
+[292] ✅ Sent to 1650271530
+[293] ✅ Sent to 6140046100
+[294] ✅ Sent to 923619638
+[295] ✅ Sent to 5077399464
+[296] ✅ Sent to 702118892
+[297] ✅ Sent to 973998336
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[298] ❌ Failed to 6146071978
+[299] ✅ Sent to 5463242189
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[300] ❌ Failed to 959331688
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[301] ❌ Failed to 951737759
+[302] ✅ Sent to 5790561577
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[303] ❌ Failed to 2091075589
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[304] ❌ Failed to 897697171
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[305] ❌ Failed to 1997630994
+[306] ✅ Sent to 1024408777
+[307] ✅ Sent to 5864067090
+[308] ✅ Sent to 5811838988
+[309] ✅ Sent to 1395594648
+[310] ✅ Sent to 1407333917
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[311] ❌ Failed to 1901516515
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[312] ❌ Failed to 6219025268
+[313] ✅ Sent to 5298159649
+[314] ✅ Sent to 869784286
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[315] ❌ Failed to 5140193545
+[316] ✅ Sent to 6022502022
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[317] ❌ Failed to 1817004543
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[318] ❌ Failed to 6047067594
+[319] ✅ Sent to 5869926928
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[320] ❌ Failed to 6288062317
+[321] ✅ Sent to 808790096
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[322] ❌ Failed to 5494061736
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[323] ❌ Failed to 1975647076
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[324] ❌ Failed to 5397671349
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[325] ❌ Failed to 5851000387
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[326] ❌ Failed to 6110177060
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[327] ❌ Failed to 6067511226
+[328] ✅ Sent to 6124545269
+[329] ✅ Sent to 5619572520
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[330] ❌ Failed to 6114935756
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[331] ❌ Failed to 2013219898
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[332] ❌ Failed to 1708116174
+[333] ✅ Sent to 5360188357
+[334] ✅ Sent to 1408059859
+[335] ✅ Sent to 5835274094
+[336] ✅ Sent to 915387834
+[337] ✅ Sent to 1969624547
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[338] ❌ Failed to 792829465
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[339] ❌ Failed to 5238152909
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[340] ❌ Failed to 5558084902
+[341] ✅ Sent to 5101893734
+[342] ✅ Sent to 1980642339
+[343] ✅ Sent to 5383101078
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[344] ❌ Failed to 1695799286
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[345] ❌ Failed to 5451067538
+[346] ✅ Sent to 6141428261
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[347] ❌ Failed to 5211885611
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[348] ❌ Failed to 6114375608
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[349] ❌ Failed to 1611400379
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[350] ❌ Failed to 5397917102
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[351] ❌ Failed to 6006577701
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[352] ❌ Failed to 6419666144
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[353] ❌ Failed to 6671915951
+[354] ✅ Sent to 1520077657
+[355] ✅ Sent to 1299141709
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[356] ❌ Failed to 1146021798
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[357] ❌ Failed to 1018112807
+[358] ✅ Sent to 5942836284
+[359] ✅ Sent to 5937336509
+[360] ✅ Sent to 1528995354
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[361] ❌ Failed to 922119142
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[362] ❌ Failed to 6122613340
+[363] ✅ Sent to 5805069379
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[364] ❌ Failed to 5374101475
+[365] ✅ Sent to 5853329197
+[366] ✅ Sent to 1316239243
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[367] ❌ Failed to 1852467148
+[368] ✅ Sent to 1225019341
+[369] ✅ Sent to 5734992905
+[370] ✅ Sent to 1041700388
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[371] ❌ Failed to 5454866060
+[372] ✅ Sent to 1023647668
+[373] ✅ Sent to 1701487820
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[374] ❌ Failed to 1981178146
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[375] ❌ Failed to 5017748801
+[376] ✅ Sent to 5931386624
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[377] ❌ Failed to 5274877134
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[378] ❌ Failed to 5928076481
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[379] ❌ Failed to 5594222777
+[380] ✅ Sent to 1668093588
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[381] ❌ Failed to 6336556280
+[382] ✅ Sent to 6317129511
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[383] ❌ Failed to 5463608866
+[384] ✅ Sent to 6243844236
+[385] ✅ Sent to 6152885694
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[386] ❌ Failed to 1854652587
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[387] ❌ Failed to 6052036259
+[388] ✅ Sent to 5721041983
+[389] ✅ Sent to 5450041323
+[390] ✅ Sent to 924604602
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[391] ❌ Failed to 5593593564
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[392] ❌ Failed to 1455414981
+[393] ✅ Sent to 6126661139
+[394] ✅ Sent to 5092374493
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[395] ❌ Failed to 5988682696
+[396] ✅ Sent to 5640243185
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[397] ❌ Failed to 1524158820
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[398] ❌ Failed to 5050836503
+[399] ✅ Sent to 6546822244
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[400] ❌ Failed to 1646393786
+[401] ✅ Sent to 6139102504
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[402] ❌ Failed to 5019001527
+[403] ✅ Sent to 6126809840
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[404] ❌ Failed to 5848161343
+[405] ✅ Sent to 991319056
+[406] ✅ Sent to 1381272091
+[407] ✅ Sent to 1017742687
+[408] ✅ Sent to 5135159075
+[409] ✅ Sent to 5231694453
+[410] ✅ Sent to 1764976440
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[411] ❌ Failed to 6357666669
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[412] ❌ Failed to 5699820162
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[413] ❌ Failed to 5560103656
+[414] ✅ Sent to 1711659628
+[415] ✅ Sent to 5660349174
+[416] ✅ Sent to 5360509071
+[417] ✅ Sent to 1395045520
+[418] ✅ Sent to 6094053749
+[419] ✅ Sent to 5890089298
+[420] ✅ Sent to 6105153829
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[421] ❌ Failed to 6535779979
+[422] ✅ Sent to 1223633547
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[423] ❌ Failed to 6316179305
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[424] ❌ Failed to 6118582544
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[425] ❌ Failed to 6596519181
+[426] ✅ Sent to 5726972275
+[427] ✅ Sent to 5823375384
+[428] ✅ Sent to 5367879707
+[429] ✅ Sent to 5814633287
+[430] ✅ Sent to 1339463525
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[431] ❌ Failed to 5609982341
+[432] ✅ Sent to 5966234036
+[433] ✅ Sent to 1624659018
+[434] ✅ Sent to 5941431356
+[435] ✅ Sent to 5605118892
+[436] ✅ Sent to 5161730241
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[437] ❌ Failed to 5547299679
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[438] ❌ Failed to 6229747698
+[439] ✅ Sent to 1532918755
+[440] ✅ Sent to 5118517526
+[441] ✅ Sent to 5994111718
+[442] ✅ Sent to 2097138288
+[443] ✅ Sent to 6314730370
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[444] ❌ Failed to 1801089373
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[445] ❌ Failed to 5884061088
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[446] ❌ Failed to 5571944607
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[447] ❌ Failed to 6243186019
+[448] ✅ Sent to 1244854058
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[449] ❌ Failed to 1118466146
+[450] ✅ Sent to 781683296
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[451] ❌ Failed to 1993269668
+[452] ✅ Sent to 5026063971
+[453] ✅ Sent to 1288002666
+[454] ✅ Sent to 6311812724
+[455] ✅ Sent to 1651020100
+[456] ✅ Sent to 5876383352
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[457] ❌ Failed to 2116895585
+[458] ✅ Sent to 1963501135
+[459] ✅ Sent to 1975516392
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[460] ❌ Failed to 804383224
+[461] ✅ Sent to 1593270232
+[462] ✅ Sent to 6453502753
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[463] ❌ Failed to 5726052754
+[464] ✅ Sent to 5725885696
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[465] ❌ Failed to 1379077315
+[466] ✅ Sent to 858476440
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[467] ❌ Failed to 6385577128
+[468] ✅ Sent to 5542938694
+[469] ✅ Sent to 5834553296
+[470] ✅ Sent to 5818517088
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[471] ❌ Failed to 2127206237
+[472] ✅ Sent to 5716978793
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[473] ❌ Failed to 6335591603
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[474] ❌ Failed to 5569726031
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[475] ❌ Failed to 6414239351
+[476] ✅ Sent to 1119536718
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[477] ❌ Failed to 5362029577
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[478] ❌ Failed to 5586375016
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[479] ❌ Failed to 6677526938
+[480] ✅ Sent to 5924368499
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[481] ❌ Failed to 6416215850
+[482] ✅ Sent to 1543260546
+[483] ✅ Sent to 1877057491
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[484] ❌ Failed to 6074132997
+[485] ✅ Sent to 1220278519
+[486] ✅ Sent to 916164535
+[487] ✅ Sent to 1353404208
+[488] ✅ Sent to 2062465637
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[489] ❌ Failed to 5420981142
+[490] ✅ Sent to 5494117357
+[491] ✅ Sent to 6188443563
+[492] ✅ Sent to 1268056476
+[493] ✅ Sent to 5566380417
+[494] ✅ Sent to 5766049611
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[495] ❌ Failed to 5849636879
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[496] ❌ Failed to 6375094913
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[497] ❌ Failed to 1247326377
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[498] ❌ Failed to 6442659352
+[499] ✅ Sent to 5098566139
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[500] ❌ Failed to 384879958
+[501] ✅ Sent to 1569793243
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[502] ❌ Failed to 6235847515
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[503] ❌ Failed to 2126736973
+[504] ✅ Sent to 1348366936
+[505] ✅ Sent to 5249780420
+[506] ✅ Sent to 6110418202
+[507] ✅ Sent to 5871346865
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[508] ❌ Failed to 5793757122
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[509] ❌ Failed to 6090796020
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[510] ❌ Failed to 6140483936
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[511] ❌ Failed to 5910911558
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[512] ❌ Failed to 2100583620
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[513] ❌ Failed to 5812255024
+[514] ✅ Sent to 1482759518
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[515] ❌ Failed to 1939680101
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[516] ❌ Failed to 5564506676
+[517] ✅ Sent to 5936687804
+[518] ✅ Sent to 2032372785
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[519] ❌ Failed to 5037597196
+[520] ✅ Sent to 6309364987
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[521] ❌ Failed to 1824557604
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[522] ❌ Failed to 5639511260
+[523] ✅ Sent to 6669451037
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[524] ❌ Failed to 5848883943
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[525] ❌ Failed to 5519623166
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[526] ❌ Failed to 1914933113
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[527] ❌ Failed to 1706594539
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[528] ❌ Failed to 1951636243
+[529] ✅ Sent to 5360511954
+[530] ✅ Sent to 5849308090
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[531] ❌ Failed to 6676656670
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[532] ❌ Failed to 6385611961
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[533] ❌ Failed to 1883378069
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[534] ❌ Failed to 6421913654
+[535] ✅ Sent to 6235335253
+[536] ✅ Sent to 1869371202
+[537] ✅ Sent to 1850023029
+[538] ✅ Sent to 1407083787
+[539] ✅ Sent to 6179316454
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[540] ❌ Failed to 6525993807
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[541] ❌ Failed to 1876754747
+[542] ✅ Sent to 1064345443
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[543] ❌ Failed to 5855744754
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[544] ❌ Failed to 5193921961
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[545] ❌ Failed to 6387992301
+[546] ✅ Sent to 1383473507
+[547] ✅ Sent to 5156924138
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[548] ❌ Failed to 6591368503
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[549] ❌ Failed to 5058358273
+[550] ✅ Sent to 1231994187
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[551] ❌ Failed to 6451872917
+[552] ✅ Sent to 5540137887
+[553] ✅ Sent to 2140721439
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[554] ❌ Failed to 5644286998
+[555] ✅ Sent to 5748862827
+[556] ✅ Sent to 1762296873
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[557] ❌ Failed to 6697134483
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[558] ❌ Failed to 6170582900
+[559] ✅ Sent to 5882644298
+[560] ✅ Sent to 5346878701
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[561] ❌ Failed to 1696930076
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[562] ❌ Failed to 1822792598
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[563] ❌ Failed to 5263811588
+[564] ✅ Sent to 6089843066
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[565] ❌ Failed to 1373746671
+[566] ✅ Sent to 994827986
+[567] ✅ Sent to 1207952955
+[568] ✅ Sent to 6506509245
+[569] ✅ Sent to 2108855667
+[570] ✅ Sent to 5251545148
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[571] ❌ Failed to 6673046046
+[572] ✅ Sent to 6603696830
+[573] ✅ Sent to 6233159577
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[574] ❌ Failed to 1175343018
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[575] ❌ Failed to 1779900123
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[576] ❌ Failed to 5072134173
+[577] ✅ Sent to 2088906096
+[578] ✅ Sent to 5797764799
+[579] ✅ Sent to 1182068703
+[580] ✅ Sent to 6694709067
+[581] ✅ Sent to 6226242472
+[582] ✅ Sent to 785754774
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[583] ❌ Failed to 1248819282
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[584] ❌ Failed to 5109049192
+[585] ✅ Sent to 6252917336
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[586] ❌ Failed to 6129828432
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[587] ❌ Failed to 1838963575
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[588] ❌ Failed to 738336025
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[589] ❌ Failed to 6641762879
+[590] ✅ Sent to 5090974171
+[591] ✅ Sent to 1099323895
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[592] ❌ Failed to 2145532356
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[593] ❌ Failed to 1995150673
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[594] ❌ Failed to 1012231335
+[595] ✅ Sent to 970800549
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[596] ❌ Failed to 6563412146
+[597] ✅ Sent to 5201691967
+[598] ✅ Sent to 1526054162
+[599] ✅ Sent to 1800182002
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[600] ❌ Failed to 5566119506
+[601] ✅ Sent to 5283098537
+[602] ✅ Sent to 583505462
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[603] ❌ Failed to 1699242717
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[604] ❌ Failed to 917274553
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[605] ❌ Failed to 1712421090
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[606] ❌ Failed to 6477190229
+[607] ✅ Sent to 1824962579
+[608] ✅ Sent to 6221406183
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[609] ❌ Failed to 2028183947
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[610] ❌ Failed to 6169524858
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[611] ❌ Failed to 6636903759
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[612] ❌ Failed to 6424767319
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[613] ❌ Failed to 6539000353
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[614] ❌ Failed to 1150294646
+[615] ✅ Sent to 648826132
+[616] ✅ Sent to 2101865913
+[617] ✅ Sent to 1523083878
+[618] ✅ Sent to 1943582738
+[619] ✅ Sent to 5483495804
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[620] ❌ Failed to 6407648350
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[621] ❌ Failed to 1481124366
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[622] ❌ Failed to 6607070520
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[623] ❌ Failed to 1469385118
+[624] ✅ Sent to 6234029344
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[625] ❌ Failed to 5548255531
+[626] ✅ Sent to 1968558041
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[627] ❌ Failed to 6101651196
+[628] ✅ Sent to 6631017447
+[629] ✅ Sent to 5636390527
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[630] ❌ Failed to 6260473170
+[631] ✅ Sent to 6665335383
+[632] ✅ Sent to 6297212700
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[633] ❌ Failed to 6515903309
+[634] ✅ Sent to 6270340517
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[635] ❌ Failed to 6473242542
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[636] ❌ Failed to 1647261312
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[637] ❌ Failed to 6586170741
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[638] ❌ Failed to 6712896783
+[639] ✅ Sent to 5285358321
+[640] ✅ Sent to 794702850
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[641] ❌ Failed to 1647445316
+[642] ✅ Sent to 5617756559
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[643] ❌ Failed to 5391995999
+[644] ✅ Sent to 5645682717
+[645] ✅ Sent to 5719999805
+[646] ✅ Sent to 794491094
+[647] ✅ Sent to 1450305353
+[648] ✅ Sent to 1399526405
+[649] ✅ Sent to 667942541
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[650] ❌ Failed to 6465820681
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[651] ❌ Failed to 6248861496
+[652] ✅ Sent to 1173001929
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[653] ❌ Failed to 6185270638
+[654] ✅ Sent to 5244733755
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[655] ❌ Failed to 6420978874
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[656] ❌ Failed to 6507452888
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[657] ❌ Failed to 2053746292
+[658] ✅ Sent to 5491048478
+[659] ✅ Sent to 6450830611
+[660] ✅ Sent to 6172977382
+[661] ✅ Sent to 958298607
+[662] ✅ Sent to 1819262570
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[663] ❌ Failed to 6662352177
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[664] ❌ Failed to 1042918243
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[665] ❌ Failed to 6975320241
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[666] ❌ Failed to 1366925069
+[667] ✅ Sent to 5452322675
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[668] ❌ Failed to 5526501506
+[669] ✅ Sent to 1758650674
+[670] ✅ Sent to 6190110015
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[671] ❌ Failed to 6402252762
+[672] ✅ Sent to 5339638465
+[673] ✅ Sent to 1343639527
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[674] ❌ Failed to 6197075107
+[675] ✅ Sent to 6126160759
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[676] ❌ Failed to 5550323159
+[677] ✅ Sent to 5142083113
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[678] ❌ Failed to 6262322160
+[679] ✅ Sent to 5417103294
+[680] ✅ Sent to 5156248860
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[681] ❌ Failed to 5844491312
+[682] ✅ Sent to 1258979456
+[683] ✅ Sent to 5710123130
+[684] ✅ Sent to 6240652787
+[685] ✅ Sent to 5178637520
+[686] ✅ Sent to 6945684924
+[687] ✅ Sent to 1822009866
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[688] ❌ Failed to 5928302289
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[689] ❌ Failed to 2129350015
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[690] ❌ Failed to 5167096556
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[691] ❌ Failed to 5238722291
+[692] ✅ Sent to 6685820595
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[693] ❌ Failed to 5101411122
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[694] ❌ Failed to 1352977476
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[695] ❌ Failed to 5523689902
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[696] ❌ Failed to 5416608371
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[697] ❌ Failed to 6358712679
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[698] ❌ Failed to 1490888409
+[699] ✅ Sent to 5069975749
+[700] ✅ Sent to 6077317557
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[701] ❌ Failed to 5090817443
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[702] ❌ Failed to 5770813197
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[703] ❌ Failed to 5626257499
+[704] ✅ Sent to 1070991093
+[705] ✅ Sent to 6583747757
+[706] ✅ Sent to 6700106505
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[707] ❌ Failed to 6030616377
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[708] ❌ Failed to 5442367572
+[709] ✅ Sent to 6274180736
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[710] ❌ Failed to 6737587576
+[711] ✅ Sent to 6730596496
+[712] ✅ Sent to 980495776
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[713] ❌ Failed to 5473729182
+[714] ✅ Sent to 6097350746
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[715] ❌ Failed to 6018320120
+[716] ✅ Sent to 5689977798
+[717] ✅ Sent to 5845067859
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[718] ❌ Failed to 6868663152
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[719] ❌ Failed to 5181873092
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[720] ❌ Failed to 6870678906
+[721] ✅ Sent to 5660230579
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[722] ❌ Failed to 6881777683
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[723] ❌ Failed to 6830906816
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[724] ❌ Failed to 940943965
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[725] ❌ Failed to 6536397886
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[726] ❌ Failed to 6476760132
+[727] ✅ Sent to 6884595338
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[728] ❌ Failed to 5179021226
+[729] ✅ Sent to 6319520500
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[730] ❌ Failed to 6448628045
+[731] ✅ Sent to 5989175817
+[732] ✅ Sent to 5722439416
+[733] ✅ Sent to 6078876353
+{"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+[734] ❌ Failed to 6784259419
+{"ok":false,"error_code":403,"description":"Forbidden: user is deactivated"}
+[735] ❌ Failed to 6191423361
